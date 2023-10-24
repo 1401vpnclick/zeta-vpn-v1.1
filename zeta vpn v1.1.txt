@@ -1,1 +1,1 @@
-{"title":"","message":"برای ویرایش این برنامه زحمت زیادی کشیده شده است، لطفا در چنل ما عضو شوید.","dismissable":false,"dismissTxt":"رد","okTxt":"عضویت","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+
