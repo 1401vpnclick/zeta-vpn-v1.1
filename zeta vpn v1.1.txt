@@ -1,1 +1,1 @@
-.
+{"title":"سلام","message":"نسخه جدیدی از این برنامه با سرور های سریع تر در دسترس است لطفا ان را همین الن بروز رسانی کنید ","dismissable":false,"dismissTxt":"بازگشت","okTxt":"بروزرسانی","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
