@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"هم اکنون فیلتر شکن جدیدی به نام Janson VPN  سرور ها مختلف و پرسرعت قرار داده شده است برای اتصال بهتر دانلود کنید ⚡️","dismissable":false,"dismissTxt":"رد","okTxt":"دانلود از تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+.
