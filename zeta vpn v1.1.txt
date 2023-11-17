@@ -1,1 +1,1 @@
-.
+{"title":"کاربر گرامی ","message":"پشنهادی برات دارم! میخای یک فیلتر دیگه با سرور های متفاوت از همین سبک داشته باشی همین الن از تلگرام دانلود کن ❤️⚡️","dismissable":false,"dismissTxt":"رد","okTxt":"بروزرسانی از تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
